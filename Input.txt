@@ -1,0 +1,47 @@
+University of Connecticut, Dermatology, 250, 260, US Citizen/Non US Citizen, AMG/FMG
+
+Jacobi Medical Center, Pediatrics, 200, 210 , US Citizen/Non US Citizen, AMG/FMG/IMG
+
+University of Southern California,Internal Medicine,220,220,US Citizen/Non US Citizen,AMG/FMG
+
+University of Arkansas,Anesthesiology,230,230,US Citizen/Non US Citizen,AMG
+
+
+Kaiser Permanente,General Surgery,220,225,US Citizen/Non US Citizen,AMG/FMG/IMG
+
+Coney Island Hospital,Family Medicine,200,215,US Citizen/Non US Citizen,AMG/FMG/IMG
+
+The Brooklyn Hospital,Internal Medicine,220,220,US Citizen/Non US Citizen,AMG/FMG/IMG
+
+Baylor University,Pediatrics,210,215,US Citizen/Non US Citizen,AMG
+
+
+Elmhurst Hospital Center, Psychiatry, 210, 225, US Citizen/Non US Citizen, AMG
+
+
+University of Rochester, Ophthalmology, 245, 255, US Citizen/Non US Citizen, AMG
+
+Westchester Medical Center Hospital, neurosurgery, 255, 255, US Citizen/Non US Citizen, AMG/FMG
+
+
+MedStar National Rehabilitation Hospital, Physiatry,  235,240,US Citizen/Non US Citizen,AMG/FMG
+
+Wyckoff Heights Medical Center,General Surgery,220, 220, US Citizen/Non US Citizen,AMG/FMG/IMG
+
+University of Maryland Medical Center, OBGYN, 230, 230, US Citizen/Non US Citizen, AMG/FMG
+
+Western Reserve Hospital,Urology,260,260,US Citizen/Non US Citizen, AMG/FMG
+
+Northshore University Hospital,Orthopedic Surgery,255,260,US Citizen/Non US Citizen, AMG
+
+UT Health Science Center at Houston, Family Medicine, 215, 220, US Citizen/Non US Citizen, AMG/FMG/IMG
+
+AdventHealth Orlando, Pediatrics, 210, 215, US Citizen/Non US Citizen, AMG/FMG/IMG
+
+Emory University Hospital, General Surgery, 230, 250, US Citizen/Non US Citizen, AMG
+
+NYU Langone Health, Emergency Medicine, 225, 235, US Citizen/Non US Citizen, AMG/FMG
+
+Brookdale University Hospital Medical Center, Family Medicine, 210, 225, US Citizen/Non US Citizen, AMG/FMG/IMG
+
+Pennsylvania Hospital, Emergency Medicine, 235, 250, US Citizen/Non US Citizen, AMG/FMG
