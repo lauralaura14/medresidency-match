@@ -1,6 +1,6 @@
 # medresidency-match
 
-Laura O - Medical Residency Recommendation Program Project README
+Medical Residency Recommendation Program Project README
 
 
 
