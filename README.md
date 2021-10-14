@@ -25,9 +25,8 @@ To execute JAR file:
 
 On Windows:
 
-1. Open folder 'Laura O - COSC 610 Project'
-2. Open folder 'COSC610_Project Files'
-3. Open folder 'COSC610_Project'
+1. Clone the project
+2. Open folder 'medresidency-match'
 4. Open folder 'dist'
 5. Double click on Windows Batch File 'COSC610_project' to run the program 
 
@@ -50,17 +49,13 @@ If the JAR file does not execute, please try to open the project in an IDE.
 To open project in IDE:
 
 1. In IDE, from File menu, select "Open Project" option
-2. Open folder 'Laura O - COSC 610 Project'
-3. Open folder 'COSC610_Project Files'
-4. Click on project 'COSC610_Project'
+2. Open folder 'medresidency-match'
 
 
 
 To simply find JAVA source code files from folder:
 
-1. Open folder 'Laura O - COSC 610 Project'
-2. Open folder 'COSC610_Project Files'
-3. Open folder 'COSC610_Project'
+1. Open folder 'medresidency-match'
 4. Open folder 'src'
 5. Open folder 'main' for Main class code file
 6. Open folder 'project' for the rest of the code files
